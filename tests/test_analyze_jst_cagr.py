@@ -18,7 +18,7 @@ class AnalyzeJstCagrTests(unittest.TestCase):
         cagr, length = cagr_from_returns([0.10, 0.21])
 
         self.assertEqual(length, 2)
-        self.assertTrue(math.isclose(cagr, 0.1545341492, rel_tol=1e-9))
+        self.assertTrue(math.isclose(cagr, 0.1536897329871667, rel_tol=1e-9))
 
     def test_build_output_reports_requested_fields(self):
         rows_by_country = {
