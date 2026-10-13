@@ -1,0 +1,72 @@
+country,iso,asset_class,source,return_currency,return_basis,cagr,standard_deviation,first_year,last_year,observations,countries_averaged
+Australia,AUS,Bills,JST,local currency,domestic purchasing power,0.018526420712375216,0.043804823084376034,1871,2020,147,1
+Australia,AUS,Equities (total return),JST,local currency,domestic purchasing power,0.07182240745436685,0.15592522078361074,1871,2020,150,1
+Australia,AUS,Government bonds (total return),JST,local currency,domestic purchasing power,0.017810770760473764,0.0901657819731183,1900,2020,121,1
+Australia,AUS,Housing (total return),JST,local currency,domestic purchasing power,0.05766958723624797,0.11732124193522923,1901,2020,120,1
+Belgium,BEL,Bills,JST,local currency,domestic purchasing power,0.010621235296841173,0.09789377943508416,1871,2020,146,1
+Belgium,BEL,Equities (total return),JST,local currency,domestic purchasing power,0.03325518943597623,0.2183112365045694,1871,2020,150,1
+Belgium,BEL,Government bonds (total return),JST,local currency,domestic purchasing power,0.024174798696972054,0.10551158561007802,1871,2020,144,1
+Belgium,BEL,Housing (total return),JST,local currency,domestic purchasing power,0.06716643847793913,0.15188609176625925,1890,2020,120,1
+Denmark,DNK,Bills,JST,local currency,domestic purchasing power,0.02713573193753722,0.057103192470950005,1875,2020,146,1
+Denmark,DNK,Equities (total return),JST,local currency,domestic purchasing power,0.06465357493075999,0.16414940836099953,1873,2020,148,1
+Denmark,DNK,Government bonds (total return),JST,local currency,domestic purchasing power,0.03055642393595229,0.10953127746125134,1871,2020,149,1
+Denmark,DNK,Housing (total return),JST,local currency,domestic purchasing power,0.07937343792424656,0.07478378646505005,1876,2020,145,1
+Finland,FIN,Bills,JST,local currency,domestic purchasing power,-0.006403312283978447,0.10322480390690038,1871,2020,150,1
+Finland,FIN,Equities (total return),JST,local currency,domestic purchasing power,0.0497641215726545,0.2999545952920018,1896,2020,125,1
+Finland,FIN,Government bonds (total return),JST,local currency,domestic purchasing power,0.014869754222425275,0.14484603091295423,1871,2020,150,1
+Finland,FIN,Housing (total return),JST,local currency,domestic purchasing power,0.08413870439411293,0.15236456157678932,1920,2020,99,1
+France,FRA,Bills,JST,local currency,domestic purchasing power,-0.008229319051823274,0.0764956777659894,1871,2020,143,1
+France,FRA,Equities (total return),JST,local currency,domestic purchasing power,0.011302554970055164,0.2190981400571435,1871,2020,150,1
+France,FRA,Government bonds (total return),JST,local currency,domestic purchasing power,0.00045071576144291385,0.12658689356936959,1871,2020,150,1
+France,FRA,Housing (total return),JST,local currency,domestic purchasing power,0.05878748760207955,0.09865225345656435,1871,2020,150,1
+Germany,DEU,Bills,JST,local currency,domestic purchasing power,0.015886716803321613,0.02235547724142122,1950,2020,71,1
+Germany,DEU,Equities (total return),JST,local currency,domestic purchasing power,0.08392357364298961,0.26831892583292544,1950,2020,71,1
+Germany,DEU,Government bonds (total return),JST,local currency,domestic purchasing power,0.03465861325283998,0.048499446928401316,1950,2020,71,1
+Germany,DEU,Housing (total return),JST,local currency,domestic purchasing power,0.05554368081981739,0.04290023613595509,1963,2020,58,1
+Italy,ITA,Bills,JST,local currency,domestic purchasing power,-0.003635073408591157,0.10299155873901401,1871,2020,130,1
+Italy,ITA,Equities (total return),JST,local currency,domestic purchasing power,0.02443449858800817,0.2589027068960149,1871,2020,150,1
+Italy,ITA,Government bonds (total return),JST,local currency,domestic purchasing power,0.004883901578223099,0.1453306733813468,1871,2020,150,1
+Italy,ITA,Housing (total return),JST,local currency,domestic purchasing power,0.04344888100756475,0.09339932627266283,1928,2020,86,1
+Japan,JPN,Bills,JST,local currency,domestic purchasing power,-0.020312032033458965,0.12677095657217366,1876,2020,145,1
+Japan,JPN,Equities (total return),JST,local currency,domestic purchasing power,0.0480272737552898,0.2729368582003824,1886,2020,133,1
+Japan,JPN,Government bonds (total return),JST,local currency,domestic purchasing power,-0.0033276578272090807,0.14510649868139575,1881,2020,140,1
+Japan,JPN,Housing (total return),JST,local currency,domestic purchasing power,0.06270740363167143,0.08128987985446057,1931,2020,75,1
+Netherlands,NLD,Bills,JST,local currency,domestic purchasing power,0.011474241294437226,0.04991719320624333,1871,2020,150,1
+Netherlands,NLD,Equities (total return),JST,local currency,domestic purchasing power,0.05098913575633122,0.2117831981228226,1900,2020,121,1
+Netherlands,NLD,Government bonds (total return),JST,local currency,domestic purchasing power,0.023375434451276572,0.08953069288607603,1871,2020,150,1
+Netherlands,NLD,Housing (total return),JST,local currency,domestic purchasing power,0.0695737902623058,0.08745794291591386,1871,2020,150,1
+Norway,NOR,Bills,JST,local currency,domestic purchasing power,0.00840255794966433,0.058989528632030476,1871,2020,150,1
+Norway,NOR,Equities (total return),JST,local currency,domestic purchasing power,0.03949799809205983,0.1951426163477044,1881,2020,140,1
+Norway,NOR,Government bonds (total return),JST,local currency,domestic purchasing power,0.020736598562310048,0.08779627134116298,1871,2020,150,1
+Norway,NOR,Housing (total return),JST,local currency,domestic purchasing power,0.07822038660336038,0.09402299442803064,1871,2020,150,1
+Portugal,PRT,Bills,JST,local currency,domestic purchasing power,-0.005364448149118146,0.0926729968220305,1880,2020,141,1
+Portugal,PRT,Equities (total return),JST,local currency,domestic purchasing power,0.008604235867724795,0.247846909245345,1871,2020,150,1
+Portugal,PRT,Government bonds (total return),JST,local currency,domestic purchasing power,0.015034271706922753,0.15668557581786685,1871,2020,150,1
+Portugal,PRT,Housing (total return),JST,local currency,domestic purchasing power,0.06298378875098493,0.08518368220517729,1948,2020,73,1
+Spain,ESP,Bills,JST,local currency,domestic purchasing power,0.004311326440818123,0.06742245051112661,1871,2020,146,1
+Spain,ESP,Equities (total return),JST,local currency,domestic purchasing power,0.036259618156499016,0.20752585558005998,1900,2020,121,1
+Spain,ESP,Government bonds (total return),JST,local currency,domestic purchasing power,0.009972972823484237,0.10105271928140243,1900,2020,117,1
+Spain,ESP,Housing (total return),JST,local currency,domestic purchasing power,0.04637654977107077,0.11754823945086768,1901,2020,120,1
+Sweden,SWE,Bills,JST,local currency,domestic purchasing power,0.014921292474873548,0.055508953417889105,1871,2020,150,1
+Sweden,SWE,Equities (total return),JST,local currency,domestic purchasing power,0.063264815040722,0.19348479711934524,1871,2020,150,1
+Sweden,SWE,Government bonds (total return),JST,local currency,domestic purchasing power,0.026694003328295905,0.108269973786192,1871,2020,150,1
+Sweden,SWE,Housing (total return),JST,local currency,domestic purchasing power,0.07775196060238251,0.08780017729989126,1883,2020,138,1
+Switzerland,CHE,Bills,JST,local currency,domestic purchasing power,0.013855264785229636,0.05801401859854014,1871,2020,150,1
+Switzerland,CHE,Equities (total return),JST,local currency,domestic purchasing power,0.04916427921350721,0.18916665806128116,1900,2020,121,1
+Switzerland,CHE,Government bonds (total return),JST,local currency,domestic purchasing power,0.020496913823302876,0.0787996234416609,1900,2020,120,1
+Switzerland,CHE,Housing (total return),JST,local currency,domestic purchasing power,0.05465173938392027,0.06525431636615371,1902,2020,119,1
+UK,GBR,Bills,JST,local currency,domestic purchasing power,0.009602835180509578,0.0475641112596444,1871,2020,150,1
+UK,GBR,Equities (total return),JST,local currency,domestic purchasing power,0.053156420764614985,0.17619857079641718,1871,2020,150,1
+UK,GBR,Government bonds (total return),JST,local currency,domestic purchasing power,0.01750564086910751,0.10881353066493578,1871,2020,150,1
+UK,GBR,Housing (total return),JST,local currency,domestic purchasing power,0.05014795151564981,0.08970819935134247,1896,2020,118,1
+USA,USA,Bills,JST,local currency,domestic purchasing power,0.02059225391539977,0.045770487896682956,1871,2020,150,1
+USA,USA,Equities (total return),JST,local currency,domestic purchasing power,0.06822248416438384,0.18227091938878978,1872,2020,149,1
+USA,USA,Government bonds (total return),JST,local currency,domestic purchasing power,0.024992515850962797,0.08934572375438438,1871,2020,150,1
+USA,USA,Housing (total return),JST,local currency,domestic purchasing power,0.059380226335747584,0.07902432778386566,1891,2020,130,1
+United States,USA,Corporate bonds (Baa),NYU Stern,USD,domestic purchasing power,0.04014931067045837,0.08442734701642983,1928,2020,93,1
+United States,USA,Gold,NYU Stern,USD,domestic purchasing power,0.04159627606455894,0.24988939208841368,1972,2020,49,1
+United States,USA,Small-cap equities,NYU Stern,USD,domestic purchasing power,0.09047537064120373,0.381164449579975,1928,2020,93,1
+Developed Market,DM,Equities (total return),JST country-CAGR average,mixed country returns,domestic purchasing power,0.04727138633787145,0.21631353853683832,1871,2020,,16
+Developed Market,DM,Housing (total return),JST country-CAGR average,mixed country returns,domestic purchasing power,0.06299512589494385,0.09491232857901333,1871,2020,,16
+Developed Market,DM,Government bonds (total return),JST country-CAGR average,mixed country returns,domestic purchasing power,0.017680354487298936,0.1084920187182248,1871,2020,,16
+Developed Market,DM,Bills,JST country-CAGR average,mixed country returns,domestic purchasing power,0.00696160574150234,0.06915625059750602,1871,2020,,16

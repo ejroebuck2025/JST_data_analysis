@@ -1,0 +1,72 @@
+country,iso,asset_class,source,return_currency,return_basis,cagr,standard_deviation,first_year,last_year,observations,countries_averaged
+Australia,AUS,Bills,JST,local currency,nominal,0.04799969381037377,0.029166936353316308,1870,2020,148,1
+Australia,AUS,Equities (total return),JST,local currency,nominal,0.10232970423144098,0.15685944431159773,1870,2020,151,1
+Australia,AUS,Government bonds (total return),JST,local currency,nominal,0.055882744460618965,0.08053805633218292,1900,2020,121,1
+Australia,AUS,Housing (total return),JST,local currency,nominal,0.09740928127894846,0.1349209231293426,1901,2020,120,1
+Belgium,BEL,Bills,JST,local currency,nominal,0.03660357303137763,0.028689161218633838,1870,2020,147,1
+Belgium,BEL,Equities (total return),JST,local currency,nominal,0.07186404577837519,0.22484024949315284,1870,2020,151,1
+Belgium,BEL,Government bonds (total return),JST,local currency,nominal,0.054009559997759235,0.08150231298936678,1870,2020,145,1
+Belgium,BEL,Housing (total return),JST,local currency,nominal,0.11304106433083744,0.09790629184590664,1890,2020,120,1
+Denmark,DNK,Bills,JST,local currency,nominal,0.05515673162975217,0.03234221549361189,1875,2020,146,1
+Denmark,DNK,Equities (total return),JST,local currency,nominal,0.09332085206372717,0.17719583513208542,1873,2020,148,1
+Denmark,DNK,Government bonds (total return),JST,local currency,nominal,0.05776808910097647,0.09401333940107519,1870,2020,150,1
+Denmark,DNK,Housing (total return),JST,local currency,nominal,0.1097178667054812,0.0771793948500742,1876,2020,145,1
+Finland,FIN,Bills,JST,local currency,nominal,0.04811277433386652,0.029602031903400435,1870,2020,151,1
+Finland,FIN,Equities (total return),JST,local currency,nominal,0.11969225169356984,0.30241143793967296,1896,2020,125,1
+Finland,FIN,Government bonds (total return),JST,local currency,nominal,0.07096989570358388,0.10217652727940946,1870,2020,151,1
+Finland,FIN,Housing (total return),JST,local currency,nominal,0.14216404272227143,0.15300913270330324,1920,2020,99,1
+France,FRA,Bills,JST,local currency,nominal,0.039423403060160116,0.0309342868479926,1870,2020,144,1
+France,FRA,Equities (total return),JST,local currency,nominal,0.06337041316440893,0.21147376649841254,1870,2020,151,1
+France,FRA,Government bonds (total return),JST,local currency,nominal,0.05200540807701577,0.09659421917547283,1870,2020,151,1
+France,FRA,Housing (total return),JST,local currency,nominal,0.11551220367863313,0.09654019695114767,1871,2020,150,1
+Germany,DEU,Bills,JST,local currency,nominal,0.03982837501012656,0.027087753906865384,1950,2020,71,1
+Germany,DEU,Equities (total return),JST,local currency,nominal,0.10946867359677039,0.27556307149454773,1950,2020,71,1
+Germany,DEU,Government bonds (total return),JST,local currency,nominal,0.05904267347283606,0.04853660260103337,1950,2020,71,1
+Germany,DEU,Housing (total return),JST,local currency,nominal,0.08284516207578775,0.045156172285255015,1963,2020,58,1
+Italy,ITA,Bills,JST,local currency,nominal,0.05732736278614688,0.0399370785273706,1870,2020,131,1
+Italy,ITA,Equities (total return),JST,local currency,nominal,0.08918269443146663,0.2954356171800197,1870,2020,151,1
+Italy,ITA,Government bonds (total return),JST,local currency,nominal,0.06803384823614356,0.09179739681475804,1870,2020,151,1
+Italy,ITA,Housing (total return),JST,local currency,nominal,0.09604862582041765,0.14660504031133575,1928,2020,86,1
+Japan,JPN,Bills,JST,local currency,nominal,0.04207315568320166,0.026627989492560452,1876,2020,145,1
+Japan,JPN,Equities (total return),JST,local currency,nominal,0.10685361121219313,0.2644237000062088,1886,2020,133,1
+Japan,JPN,Government bonds (total return),JST,local currency,nominal,0.059526131537650295,0.05544686363948916,1881,2020,140,1
+Japan,JPN,Housing (total return),JST,local currency,nominal,0.09987697622261744,0.0966629475641441,1931,2020,75,1
+Netherlands,NLD,Bills,JST,local currency,nominal,0.0338244953922312,0.021911029337253602,1870,2020,151,1
+Netherlands,NLD,Equities (total return),JST,local currency,nominal,0.08186348882874894,0.2252656296761767,1900,2020,121,1
+Netherlands,NLD,Government bonds (total return),JST,local currency,nominal,0.04577324797416556,0.06968981171007493,1870,2020,151,1
+Netherlands,NLD,Housing (total return),JST,local currency,nominal,0.09318198871005556,0.09739687658493748,1871,2020,150,1
+Norway,NOR,Bills,JST,local currency,nominal,0.03776657789813026,0.02022074948572618,1870,2020,151,1
+Norway,NOR,Equities (total return),JST,local currency,nominal,0.0716144511868451,0.20024502826120258,1881,2020,140,1
+Norway,NOR,Government bonds (total return),JST,local currency,nominal,0.050345019159934216,0.06256016132881344,1870,2020,151,1
+Norway,NOR,Housing (total return),JST,local currency,nominal,0.10960155270883294,0.09218637828831953,1871,2020,150,1
+Portugal,PRT,Bills,JST,local currency,nominal,0.05564254978462538,0.043634826027654804,1880,2020,141,1
+Portugal,PRT,Equities (total return),JST,local currency,nominal,0.06772062831997934,0.2643266503967081,1871,2020,150,1
+Portugal,PRT,Government bonds (total return),JST,local currency,nominal,0.07452754193604391,0.12541437499316405,1871,2020,150,1
+Portugal,PRT,Housing (total return),JST,local currency,nominal,0.13101183312308476,0.1094074666366449,1948,2020,73,1
+Spain,ESP,Bills,JST,local currency,nominal,0.04916706677814406,0.03880110709184662,1870,2020,147,1
+Spain,ESP,Equities (total return),JST,local currency,nominal,0.09360461705355429,0.20896643611959465,1900,2020,121,1
+Spain,ESP,Government bonds (total return),JST,local currency,nominal,0.06318824784496646,0.0715098331301464,1900,2020,117,1
+Spain,ESP,Housing (total return),JST,local currency,nominal,0.10432854916266483,0.1302791518049406,1901,2020,120,1
+Sweden,SWE,Bills,JST,local currency,nominal,0.043155407308973014,0.024685146951267726,1870,2020,151,1
+Sweden,SWE,Equities (total return),JST,local currency,nominal,0.09283092765350788,0.19750218089826602,1871,2020,150,1
+Sweden,SWE,Government bonds (total return),JST,local currency,nominal,0.055243194547525507,0.08453030040357726,1871,2020,150,1
+Sweden,SWE,Housing (total return),JST,local currency,nominal,0.10968364726119302,0.07800038014237268,1883,2020,138,1
+Switzerland,CHE,Bills,JST,local currency,nominal,0.029731118474500037,0.017581523735714855,1870,2020,151,1
+Switzerland,CHE,Equities (total return),JST,local currency,nominal,0.0715682470897031,0.18352406382628733,1900,2020,121,1
+Switzerland,CHE,Government bonds (total return),JST,local currency,nominal,0.041258814766356934,0.04722956810997664,1900,2020,120,1
+Switzerland,CHE,Housing (total return),JST,local currency,nominal,0.07777936381720522,0.056329395890821685,1902,2020,119,1
+UK,GBR,Bills,JST,local currency,nominal,0.0401811514857888,0.0326701735465112,1870,2020,151,1
+UK,GBR,Equities (total return),JST,local currency,nominal,0.08512150765353194,0.19291553995513053,1871,2020,150,1
+UK,GBR,Government bonds (total return),JST,local currency,nominal,0.0482281253872823,0.10393353429589178,1870,2020,151,1
+UK,GBR,Housing (total return),JST,local currency,nominal,0.08763675202940702,0.09781731351296845,1896,2020,118,1
+USA,USA,Bills,JST,local currency,nominal,0.04065776857948595,0.025920199316879996,1870,2020,151,1
+USA,USA,Equities (total return),JST,local currency,nominal,0.08971337992917014,0.17764180968086432,1872,2020,149,1
+USA,USA,Government bonds (total return),JST,local currency,nominal,0.045016235083086775,0.07795802596554531,1871,2020,150,1
+USA,USA,Housing (total return),JST,local currency,nominal,0.08634079947099894,0.08252066644797594,1891,2020,130,1
+United States,USA,Corporate bonds (Baa),NYU Stern,USD,nominal,0.06624969009637895,0.0769010856756443,1928,2024,97,1
+United States,USA,Gold,NYU Stern,USD,nominal,0.08026305321935381,0.26499139560749646,1972,2024,53,1
+United States,USA,Small-cap equities,NYU Stern,USD,nominal,0.11700869492131943,0.3792386708801983,1928,2024,97,1
+Developed Market,DM,Equities (total return),JST country-CAGR average,mixed country returns,nominal,0.08813246836793706,0.22241190380437048,1870,2020,,16
+Developed Market,DM,Housing (total return),JST country-CAGR average,mixed country returns,nominal,0.1035112318199023,0.09949485805934316,1871,2020,,16
+Developed Market,DM,Government bonds (total return),JST country-CAGR average,mixed country returns,nominal,0.056301173580371615,0.0808394330106236,1870,2020,,16
+Developed Market,DM,Bills,JST country-CAGR average,mixed country returns,nominal,0.04354070031543025,0.029363263077287906,1870,2020,,16
